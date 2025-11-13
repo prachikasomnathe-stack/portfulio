@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfulio/static/css/main.2e769283.css",
+    "main.js": "/portfulio/static/js/main.9efa6a26.js",
+    "static/js/453.6264690d.chunk.js": "/portfulio/static/js/453.6264690d.chunk.js",
+    "static/media/profile.jpg": "/portfulio/static/media/profile.8737225403cd5be2a40d.jpg",
+    "index.html": "/portfulio/index.html",
+    "main.2e769283.css.map": "/portfulio/static/css/main.2e769283.css.map",
+    "main.9efa6a26.js.map": "/portfulio/static/js/main.9efa6a26.js.map",
+    "453.6264690d.chunk.js.map": "/portfulio/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e769283.css",
+    "static/js/main.9efa6a26.js"
+  ]
+}
